@@ -1,9 +1,9 @@
 /*Encabezado y colores*/
 h1{
-    color: #8fbca9;
-    background: #383333;
+    color: #bde6e6;
+    background: #413a3a;
     text-align: center;
-    border: gray 3px;
+    border:solid gray 3px;
     border-style:solid;
     border-radius: 10px;
     padding: 10px;
@@ -16,7 +16,7 @@ form{
 }
 
 label{
-    font-size: 18px;
+    font-size: 20px;
     display: block;
     padding: 5px;
 }
@@ -27,6 +27,7 @@ input{
     padding: 5px;
     border: solid #383333 2px;
     border-radius: 10px;
+    padding: 8px;
 }
 
 input[type=submit]{
